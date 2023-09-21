@@ -1,0 +1,14 @@
+@import url('normalize.css');
+
+#personagem{
+    width: auto;
+    height: auto;
+    position: absolute;
+}
+.canvas{
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    height: 500px;
+    position: absolute;
+}
